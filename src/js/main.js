@@ -3,8 +3,7 @@
  */
 
 //= ../../bower_components/jquery/dist/jquery.js
-//= ../../bower_components/bootstrap/js/bootstrap.min.js
-
+//= ../../bower_components/bootstrapScss/assets/javascripts/bootstrap/modal.js
 
 /*
  * Custom
